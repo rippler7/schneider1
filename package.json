@@ -1,0 +1,25 @@
+{
+  "name": "schneider_app1",
+  "version": "1.0.0",
+  "description": "gamification app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rippler7/schneider1.git"
+  },
+  "keywords": [
+    "schneider",
+    "gamification",
+    "phaser3",
+    "enable3d"
+  ],
+  "author": "Jeremy Ancog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rippler7/schneider1/issues"
+  },
+  "homepage": "https://github.com/rippler7/schneider1#readme"
+}
